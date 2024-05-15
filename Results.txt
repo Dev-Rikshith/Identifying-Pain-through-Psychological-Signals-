@@ -1,0 +1,42 @@
+Processing file: /path/to/your/project/*.py
+Running command: /Users/ricky/mambaforge/bin/python Project2.py dia Project2Data
+
+[[46 28]
+ [14 32]]
+Precision:  0.6586368977673325
+Recall:  0.65
+Accuracy:  0.65
+
+Running command: /Users/ricky/mambaforge/bin/python Project2.py sys Project2Data
+
+[[47 27]
+ [13 33]]
+Precision:  0.6762632197414806
+Recall:  0.6666666666666667
+Accuracy:  0.6666666666666666
+
+Running command: /Users/ricky/mambaforge/bin/python Project2.py eda Project2Data
+
+[[45 28]
+ [15 32]]
+Precision:  0.6486447099970853
+Recall:  0.6416666666666666
+Accuracy:  0.6416666666666667
+
+Running command: /Users/ricky/mambaforge/bin/python Project2.py res Project2Data
+
+[[24 27]
+ [36 33]]
+Precision:  0.4744245524296675
+Recall:  0.47500000000000003
+Accuracy:  0.475
+
+Running command: /Users/ricky/mambaforge/bin/python Project2.py all Project2Data
+
+[[10  3]
+ [ 5 12]]
+Precision:  0.7375565610859729
+Recall:  0.7333333333333334
+Accuracy:  0.7333333333333333
+
+
